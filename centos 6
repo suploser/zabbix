@@ -6,4 +6,3 @@ yum install zabbix-agent
 vim /etc/zabbix/zabbix_agentd.conf 
 service zabbix-agent start
 chkconfig zabbix-agent on     //开机自启
-
